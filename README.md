@@ -16,6 +16,9 @@ Após a implementação dos componentes fizemos a importação no componente pai
 
 ![import na aplicação pai](https://github.com/user-attachments/assets/aa11a7a4-b5d6-448c-a36a-3b400a2757d8)
 
+![resultadonavegador](https://github.com/user-attachments/assets/31414423-ee52-4ad4-abb1-338b73bc0364)
+
+
 
 ## 🛠 Tecnologias Utilizadas
 Este projeto utiliza as seguintes tecnologias:
